@@ -31,3 +31,20 @@ The base area of ​​the network.
   - `10.1.2.17`
   - `10.1.2.18`
   - `10.1.2.19`
+
+## Zone 2
+
+- *(RESERVED)*
+
+## Zone 3
+
+- GW 03
+  - `10.3.0.1`
+- *Switch 01 (RESERVED)*
+  - `10.3.1.1`
+- Switch 02
+  - `10.3.1.2`
+- GW 03 WiFi
+  - `10.3.4.1`
+- GW 03 LTE
+  - `192.168.3.1`
